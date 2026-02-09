@@ -1,0 +1,13 @@
+__pycache__/
+Chatbot db
+*.db
+tools_frontend.py
+tools_backend.py
+frontend_stream.py
+frontend_resume.py
+frontend.py
+database_frontend.py
+database_backend.py
+backend.py
+a.ipynb
+.env
